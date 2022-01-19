@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NASARO-NAT
-- 👀 I’m interested in Linux Servers, machine learning , Dev Ops
-- 🌱 I’m currently learning DevOps i just begining and Network
-- 💞️ I’m looking to collaborate on Shell scripts 
+- 👀 I’m interested in Linux Servers, machine learning , CLOUD
+- 🌱 I’m currently learning OCI  and Network 
+- 💞️ I’m looking everything about R (because i'm a tragedy rsrsrsrs)
 - 📫 How to reach me : @.um.manga.por.dia
 
 <!---
